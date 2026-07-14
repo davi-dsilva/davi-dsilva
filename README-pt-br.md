@@ -4,7 +4,7 @@
 <!-- LANGUAGE TOGGLE -->
 <div align="center">
 
-[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-555555?style=for-the-badge&logoColor=white)](README-en.md)
+[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-555555?style=for-the-badge&logoColor=white)](README.md)
 [![🇧🇷 Português](https://img.shields.io/badge/🇧🇷_Português-2196F3?style=for-the-badge&logoColor=white)](#)
 
 </div>
