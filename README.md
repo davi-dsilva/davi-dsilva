@@ -10,37 +10,61 @@
 </div>
 
 <!-- TYPING EFFECT -->
-<div align="center">
+<div align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Python+Developer;Process+Automation;Data+Analysis;AI+%26+Autonomous+Agents+Enthusiast)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Java+Backend+Engineer;Software+Engineer;Python+Intelligent+Automation)](https://git.io/typing-svg)
 </div>
+    
 ---
 
-```python
-class Davi:
+```java
+import java.util.Arrays;
 
-    name     = "Davi de Souza Silva"
-    role     = "Python Developer & Data Analyst"
-    location = "Cajamar, SP — Brazil"
+public class Main {
 
-    focus = [
+    private final String name = "Davi D. Silva";
+    private final String role = "Software Engineer";
+    private final String location = "Cajamar, SP — Brazil";
+
+    private final String[] techStack = {
+        "Java", "Python", "Cloud", "AI"
+    };
+
+    private final String[] focus = {
         "Process Automation",
-        "Data Analysis",
-        "AI Agents",
-    ]
+        "Backend Development",
+        "AI Agents Integration"
+    };
 
-    education = {
-        "degree" : "Systems Analysis & Development · FATEC",
-        "mba"    : "Data Science & Analytics · USP/ESALQ",
+    private final String education = """
+        Degree      : Systems Analysis & Development · FATEC
+        Postgraduate: Java Engineering               · UNIPDS
+        """;
+
+    private final String mission = """
+        Make technology work harder
+        so people can work less.
+        """;
+
+    public static void main(String[] args) {
+        Main dev = new Main();
+
+        System.out.println("""
+            %s\n%s\n%s
+
+            Tech Stack : %s
+            Focus      : %s
+
+            %s\n \n%s
+            """.formatted(dev.name, dev.role, dev.location,
+                String.join(" • ", dev.techStack),
+                String.join(" • ", dev.focus),
+                dev.education, dev.mission
+        ));
     }
-
-    mission = """
-      Make technology work harder
-      so people can work less.
-    """
+}
 ```
-
+[click on button to mycompiler.io](https://www.mycompiler.io/view/CX1lPfc9fJU)
 <br clear="right"/>
 
 ---
@@ -50,90 +74,44 @@ class Davi:
 
 <div align="center">
 
-**Languages**
+**Core Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=2196F3)
-![Shell Script](https://img.shields.io/badge/Shell_Script-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=2196F3)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=2196F3)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 
-**Data & Analysis**
+**Backend & Frameworks**
 
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=2196F3)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=2196F3)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=2196F3)
-![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=2196F3)
-![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=2196F3)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=2196F3)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![Quarkus](https://img.shields.io/badge/Quarkus-0d1117?style=for-the-badge&logo=quarkus&logoColor=4695EB)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
 
-**Infrastructure & DevOps**
+**Frontend**
 
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=2196F3)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=2196F3)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=2196F3)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=2196F3)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+**Cloud, DevOps & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+
+**Automation & Extraction**
+
+![Scrapy](https://img.shields.io/badge/Scrapy-0d1117?style=for-the-badge&logo=scrapy&logoColor=60A839)
 </div>
-
----
-
-<!-- PROJECTS -->
-## 🚀 Featured Projects
-
 <div align="center">
 
-### ⚙️ Automation
+    
+[![GitHub Streak](https://streak-stats.demolab.com?user=davi-dsilva&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-| | Project                                                                                | Description | Stack |
-|--|----------------------------------------------------------------------------------------|-------------|-------|
-| 🔔 | [**Backup Monitor**](https://github.com/DedicadoTech/backup-monitor)                   | Monitors backup jobs and sends failure alerts via Telegram and e-mail | `Python` `Shell` `SMTP` `Telegram API` |
-| 📋 | [**Log Analyzer**](https://github.com/DedicadoTech/LogAnalyser)                        | Parses logs, classifies events by severity and generates an HTML report | `Python` `Pandas` `Regex` `Jinja2` |
-| 🔗 | [**API Integration Toolkit**](https://github.com/DedicadoTech/api-integration-toolkit) | Consumes REST APIs, transforms and exports data automatically | `Python` `Requests` `OpenPyXL` |
-
-### 📊 Data Analysis
-
-| | Project | Description | Stack |
-|--|---------|-------------|-------|
-| 🖥️ | [**IT Ops Analytics**](https://github.com/DedicadoTech/it-ops-analytics) | Exploratory analysis of IT operational data: failures, availability and performance | `Python` `Pandas` `Seaborn` `Jupyter` |
-| 📈 | [**Sales Performance Analysis**](https://github.com/DedicadoTech/sales-performance-analysis) | Commercial performance analysis with data storytelling — trends, seasonality and KPIs | `Python` `Pandas` `Matplotlib` `Plotly` |
 
 </div>
-
----
-
-<!-- STATS -->
-## 📊 Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DedicadoTech&theme=github-dark-blue&hide_border=true&ring=2196F3&fire=2196F3&currStreakLabel=2196F3)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<!-- SNAKE -->
-## Contributions
-
-<div align="center">
-
-![Snake animation](https://github.com/DedicadoTech/DedicadoTech/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<!-- CONTACT -->
-## 📫 Contact
-
-<div align="center">
-
-Open to opportunities in **Data Analysis**, **Process Automation** and **Data Engineering**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2196F3)](https://www.linkedin.com/in/dedicadotech/)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=2196F3)](mailto:dedicadotech@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=2196F3)](https://wa.me/5511941402314)
-
-</div>
-
-<!-- ANIMATED FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:1a3a5c,100:0d1117&height=120&section=footer"/>
