@@ -1,5 +1,5 @@
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2196F3&height=200&section=header&text=Davi%20de%20Souza%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20·%20Data%20Analysis%20·%20Automation&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2196F3&height=200&section=header&text=Davi%20D.%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20·%20Intelligent%20Automation%20·%20Java%20Backend&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <!-- LANGUAGE TOGGLE -->
 <div align="center">
@@ -10,12 +10,13 @@
 </div>
 
 <!-- TYPING EFFECT -->
-<div align="left">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Java+Backend+Engineer;Software+Engineer;Python+Intelligent+Automation)](https://git.io/typing-svg)
 </div>
     
 ---
+
 
 ```java
 import java.util.Arrays;
@@ -60,11 +61,11 @@ public class Main {
                 String.join(" • ", dev.techStack),
                 String.join(" • ", dev.focus),
                 dev.education, dev.mission
-        ));
+            ));
     }
 }
 ```
-[click on button to mycompiler.io](https://www.mycompiler.io/view/CX1lPfc9fJU)
+[Click on the button to view on mycompiler.io](https://www.mycompiler.io/view/CX1lPfc9fJU)
 <br clear="right"/>
 
 ---
